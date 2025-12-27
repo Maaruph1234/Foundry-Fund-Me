@@ -1,3 +1,18 @@
+##About
+This project demonstrates a full-featured Ethereum smart contract workflow using Foundry:
+
+Solidity contracts for crowdfunding logic
+
+Unit tests in Foundry to ensure correctness
+
+Chainlink price feeds integration
+
+Deployment scripts for testnets
+
+Best practices for modular and maintainable smart contract development
+
+Perfect for learning Solidity, testing Foundry features, or deploying your own FundMe-style contracts.
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
