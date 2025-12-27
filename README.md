@@ -1,4 +1,5 @@
-##About
+## About
+
 This project demonstrates a full-featured Ethereum smart contract workflow using Foundry:
 
 Solidity contracts for crowdfunding logic
